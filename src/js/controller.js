@@ -131,3 +131,6 @@ const init = function () {
 init();
 
 console.log(`TEST, THIS IS DIFFERENT BRANCH`);
+
+const testing = '';
+const show = 'THIS IS MASTER';
